@@ -18,3 +18,9 @@ This project simulates a basic payroll calculator.
 2. Create a branch and make your changes.
 3. Open a Pull Request linked to the Issue.
 4. Once merged, the Issue will close automatically.
+
+## Contributors
+- Thom Wishley Stenne B. Perez
+
+## Instructions
+- Just go to the website
